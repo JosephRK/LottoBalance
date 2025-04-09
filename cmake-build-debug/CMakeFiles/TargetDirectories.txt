@@ -1,0 +1,3 @@
+C:/Users/josep/CLionProjects/LottoBalance/cmake-build-debug/CMakeFiles/LottoBalance.dir
+C:/Users/josep/CLionProjects/LottoBalance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josep/CLionProjects/LottoBalance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

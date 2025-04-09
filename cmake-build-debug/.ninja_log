@@ -1,0 +1,19 @@
+# ninja log v6
+56	770	7657580085916680	build.ninja	adad0630dc0ce6e1
+43	467	7654153168186947	CMakeFiles/LottoBalance.dir/main.cpp.obj	6dfd2d4c5a9b5881
+467	603	7654153172425470	LottoBalance.exe	12bdd6b7e3120f42
+54	751	7657580085916680	build.ninja	adad0630dc0ce6e1
+22	810	7657580087148710	CMakeFiles/LottoBalance.dir/main.cpp.obj	6dfd2d4c5a9b5881
+811	1153	7657580095031199	LottoBalance.exe	12bdd6b7e3120f42
+27	625	7657580438652550	CMakeFiles/LottoBalance.dir/main.cpp.obj	6dfd2d4c5a9b5881
+626	774	7657580444636317	LottoBalance.exe	12bdd6b7e3120f42
+6	678	7657583125482720	CMakeFiles/LottoBalance.dir/main.cpp.obj	6dfd2d4c5a9b5881
+681	838	7657583132232361	LottoBalance.exe	12bdd6b7e3120f42
+23	629	7657583607782128	CMakeFiles/LottoBalance.dir/main.cpp.obj	6dfd2d4c5a9b5881
+630	774	7657583613845522	LottoBalance.exe	12bdd6b7e3120f42
+7	633	7657588273304855	CMakeFiles/LottoBalance.dir/main.cpp.obj	6dfd2d4c5a9b5881
+634	824	7657588279576246	LottoBalance.exe	12bdd6b7e3120f42
+23	634	7657589137460086	CMakeFiles/LottoBalance.dir/main.cpp.obj	6dfd2d4c5a9b5881
+635	777	7657589143582238	LottoBalance.exe	12bdd6b7e3120f42
+32	323	7657950315705053	CMakeFiles/LottoBalance.dir/main.cpp.obj	6dfd2d4c5a9b5881
+323	480	7657950318622223	LottoBalance.exe	12bdd6b7e3120f42
